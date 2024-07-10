@@ -32,19 +32,16 @@ function App() {
                         width="202px"
                         xmlSpace="preserve"
                         xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
                         xmlnsXlink="http://www.w3.org/1999/xlink"
                       >
-                        {" "}
-                        <defs>
-                          <style
-                            dangerouslySetInnerHTML={{
-                              __html:
-                                "       .fil0 {fill:#4A21EF}    .fil1 {fill:black;fill-rule:nonzero}     ",
-                            }}
-                            type="text/css"
-                          />{" "}
-                        </defs>{" "}
+                        <style
+                          dangerouslySetInnerHTML={{
+                            __html:
+                              "       .fil0 {fill:#4A21EF}    .fil1 {fill:black;fill-rule:nonzero}     ",
+                          }}
+                          type="text/css"
+                        />
+
                         <g id="Layer_x0020_1">
                           <metadata id="CorelCorpID_0Corel-Layer" />
                           <g id="_2914012986144">
@@ -605,9 +602,9 @@ function App() {
                       <div className="Feature__Description-sc-jlt5r9-6 bKzpNY">
                         <div>
                           <p>
-                            Kryptovault provides the simplest yet most secure way
-                            to connect to blockchain-based applications. You are
-                            always in control when interacting on the new
+                            Kryptovault provides the simplest yet most secure
+                            way to connect to blockchain-based applications. You
+                            are always in control when interacting on the new
                             decentralized web.
                           </p>
                         </div>
@@ -694,15 +691,14 @@ function App() {
                       xmlns="http://www.w3.org/2000/svg"
                       xmlnsXlink="http://www.w3.org/1999/xlink"
                     >
-                      <defs>
-                        <style
-                          dangerouslySetInnerHTML={{
-                            __html:
-                              "                          .fil4 {                            fill: white;                          }                        ",
-                          }}
-                          type="text/css"
-                        />
-                      </defs>
+                      <style
+                        dangerouslySetInnerHTML={{
+                          __html:
+                            "                          .fil4 {                            fill: white;                          }                        ",
+                        }}
+                        type="text/css"
+                      />
+
                       <g id="Layer_x0020_1">
                         <metadata id="CorelCorpID_0Corel-Layer" />
                         <path
@@ -1450,9 +1446,9 @@ function App() {
                             fontSize: "14px",
                           }}
                         >
-                          Kryptovault is powered by a strong community from across
-                          the globe. Interested in contributing? Find out how
-                          and what to contribute using the resources below.
+                          Kryptovault is powered by a strong community from
+                          across the globe. Interested in contributing? Find out
+                          how and what to contribute using the resources below.
                         </p>
                       </div>
                     </div>
