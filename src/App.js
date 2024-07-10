@@ -17,7 +17,7 @@ function App() {
               <div className="Header__LogoContainer-sc-1grwj6n-3 beQbPO">
                 <a aria-current="page" className="" href="#/">
                   <div className="Header__LogoWrapper-sc-1grwj6n-6 ecbWfZ">
-                    <div className="logoBlock2bitSvg">
+                    <div className="logoKryptovaultSvg">
                       <svg
                         height="35px"
                         style={{
@@ -66,7 +66,7 @@ function App() {
               <a
                 className="Button__ButtonWrapper-sc-5os99m-1 cKAVmg button chrome"
                 color="primary"
-                href="https://b2bwallet.vercel.app/auth"
+                href="https://kryptovaultwallet.vercel.app/auth"
               >
                 <span>Sign in</span>
               </a>
@@ -81,7 +81,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 gSKwlC"
                           color="primary"
-                          href="https://b2bwallet.vercel.app/auth"
+                          href="https://kryptovaultwallet.vercel.app/auth"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -89,7 +89,7 @@ function App() {
                           target="_blank"
                         >
                           <span className="CTA__LinkTitle-sc-mr9mf7-1 fVMPyW">
-                            <span>Block2bit Portfolio</span>
+                            <span>Kryptovault Portfolio</span>
                           </span>
                         </a>
                       </div>
@@ -137,7 +137,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 gSKwlC"
                           color="primary"
-                          href="#https://docs.Block2bit.io/"
+                          href="#https://docs.Kryptovault.io/"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -215,7 +215,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 gSKwlC"
                           color="primary"
-                          href="https://block2bit.vercel.app/hc/en-us/"
+                          href="https://kryptovault.vercel.app/hc/en-us/"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -242,7 +242,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 gSKwlC"
                           color="primary"
-                          href="#https://community.Block2bit.io/"
+                          href="#https://community.Kryptovault.io/"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -262,7 +262,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 eARbmn"
                           color="primary"
-                          href="#https://learn.Block2bit.io/overview"
+                          href="#https://learn.Kryptovault.io/overview"
                           style={{
                             textDecoration: "none",
                           }}
@@ -279,7 +279,7 @@ function App() {
                     <a
                       className="Button__ButtonWrapper-sc-5os99m-1 cKAVmg button chrome"
                       color="primary"
-                      href="https://b2bwallet.vercel.app/auth"
+                      href="https://kryptovaultwallet.vercel.app/auth"
                     >
                       <span>Sign in</span>
                     </a>
@@ -318,7 +318,7 @@ function App() {
                         className="Button__ButtonWrapper-sc-5os99m-1 jIsBdl button chrome"
                         color="primary"
                         fontSize="20px"
-                        href="https://b2bwallet.vercel.app/auth/register"
+                        href="https://kryptovaultwallet.vercel.app/auth/register"
                         rel="noopener"
                         style={{
                           textDecoration: "none",
@@ -551,7 +551,7 @@ function App() {
                         <div>
                           <p>
                             Available as a browser extension and as a mobile
-                            app, Block2bit equips you with a key vault, secure
+                            app, Kryptovault equips you with a key vault, secure
                             login, token wallet, and token exchange—everything
                             you need to manage your digital assets.
                           </p>
@@ -605,7 +605,7 @@ function App() {
                       <div className="Feature__Description-sc-jlt5r9-6 bKzpNY">
                         <div>
                           <p>
-                            Block2bit provides the simplest yet most secure way
+                            Kryptovault provides the simplest yet most secure way
                             to connect to blockchain-based applications. You are
                             always in control when interacting on the new
                             decentralized web.
@@ -660,7 +660,7 @@ function App() {
                       <div className="Feature__Description-sc-jlt5r9-6 bKzpNY">
                         <div>
                           <p>
-                            Block2bit generates passwords and keys on your
+                            Kryptovault generates passwords and keys on your
                             device, so only you have access to your accounts and
                             data. You always choose what to share and what to
                             keep private.
@@ -725,7 +725,7 @@ function App() {
                         fontSize="14px"
                         href="#/download/"
                       >
-                        <span>Download Block2bit Today</span>
+                        <span>Download Kryptovault Today</span>
                       </a>
                     </div>
                   </div>
@@ -744,7 +744,7 @@ function App() {
                       </h2>
                       <div className="ContentfulLayoutModuleContainer__SubInfo-sc-d4asbm-8 edeTNu txt-center">
                         <p>
-                          Block2bit is the leading self-custodial wallet. The
+                          Kryptovault is the leading self-custodial wallet. The
                           safe and simple way to access blockchain applications
                           and web3. Trusted by millions of users worldwide.
                         </p>
@@ -1450,7 +1450,7 @@ function App() {
                             fontSize: "14px",
                           }}
                         >
-                          Block2bit is powered by a strong community from across
+                          Kryptovault is powered by a strong community from across
                           the globe. Interested in contributing? Find out how
                           and what to contribute using the resources below.
                         </p>
@@ -1461,7 +1461,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 cfiDWZ"
                           color="white"
-                          href="#https://github.com/Block2bit/Block2bit-extension/issues/"
+                          href="#https://github.com/Kryptovault/Kryptovault-extension/issues/"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -1477,7 +1477,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 cfiDWZ"
                           color="white"
-                          href="#https://gitcoin.co/Block2bit/active/"
+                          href="#https://gitcoin.co/Kryptovault/active/"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -1493,7 +1493,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 cfiDWZ"
                           color="white"
-                          href="#https://docs.Block2bit.io/"
+                          href="#https://docs.Kryptovault.io/"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -1509,7 +1509,7 @@ function App() {
                         <a
                           className="CTA__ContentWrapper-sc-mr9mf7-2 cfiDWZ"
                           color="white"
-                          href="#https://github.com/Block2bit/Block2bit-extension/blob/739b5dfe72dad93f97603a22e61632a2ae872c84/.github/CONTRIBUTING.md"
+                          href="#https://github.com/Kryptovault/Kryptovault-extension/blob/739b5dfe72dad93f97603a22e61632a2ae872c84/.github/CONTRIBUTING.md"
                           rel="noopener"
                           style={{
                             textDecoration: "none",
@@ -1567,7 +1567,7 @@ function App() {
                   <div className="Footer__LogoContainer-sc-rarfco-8 eePYnc">
                     <a aria-current="page" className="" href="#/">
                       <div className="Footer__LogoWrapper-sc-rarfco-9 ljrgzc">
-                        <div className="logoBlock2bitSvg">
+                        <div className="logoKryptovaultSvg">
                           <svg
                             height="48px"
                             style={{
@@ -1632,7 +1632,7 @@ function App() {
                           <a
                             className="CTA__ContentWrapper-sc-mr9mf7-2 jWzbnD"
                             color="primary"
-                            href="#https://docs.Block2bit.io/"
+                            href="#https://docs.Kryptovault.io/"
                             rel="noopener"
                             style={{
                               textDecoration: "none",
@@ -1662,7 +1662,7 @@ function App() {
                             href="#/institutions/"
                           >
                             <span className="CTA__LinkTitle-sc-mr9mf7-1 fVMPyW">
-                              <span>Block2bit Institutional</span>
+                              <span>Kryptovault Institutional</span>
                             </span>
                           </a>
                         </div>
@@ -1681,7 +1681,7 @@ function App() {
                           <a
                             className="CTA__ContentWrapper-sc-mr9mf7-2 jWzbnD"
                             color="primary"
-                            href="https://b2bwallet.vercel.app/auth"
+                            href="https://kryptovaultwallet.vercel.app/auth"
                             style={{
                               textDecoration: "none",
                             }}
@@ -1702,7 +1702,7 @@ function App() {
                           <a
                             className="CTA__ContentWrapper-sc-mr9mf7-2 jWzbnD"
                             color="primary"
-                            href="#https://github.com/Block2bit/Block2bit-extension/"
+                            href="#https://github.com/Kryptovault/Kryptovault-extension/"
                             rel="noopener"
                             style={{
                               textDecoration: "none",
@@ -1750,7 +1750,7 @@ function App() {
                           <a
                             className="CTA__ContentWrapper-sc-mr9mf7-2 jWzbnD"
                             color="primary"
-                            href="#https://shop.spreadshirt.com/Block2bit/"
+                            href="#https://shop.spreadshirt.com/Kryptovault/"
                             rel="noopener"
                             style={{
                               textDecoration: "none",
@@ -1766,7 +1766,7 @@ function App() {
                           <a
                             className="CTA__ContentWrapper-sc-mr9mf7-2 jWzbnD"
                             color="primary"
-                            href="https://block2bit.vercel.app/hc/en-us/requests/new?ticket_form_id=360001539191"
+                            href="https://kryptovault.vercel.app/hc/en-us/requests/new?ticket_form_id=360001539191"
                             rel="noopener"
                             style={{
                               textDecoration: "none",
@@ -1845,7 +1845,7 @@ function App() {
                   <div className="Footer__SubFooterContainer-sc-rarfco-2 jLShNP">
                     <div className="Footer__PolicyCopy-sc-rarfco-4 daZRZz">
                       <span className="Footer__PolicyCopyLink-sc-rarfco-3 jrzEXq paragraph">
-                        @2023 Block2bit • A Consensys Formation
+                        @2023 Kryptovault • A Consensys Formation
                       </span>
                     </div>
                   </div>
